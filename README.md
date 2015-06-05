@@ -1,2 +1,2 @@
 # Notes
-Some usefull notes
+Some useful notes
